@@ -1,8 +1,8 @@
-# y
+# 一个基于Vue和node.js的数据库管理系统
 
 > 
 
-## Build Setup
+## 运行方法
 
 ``` bash
 # install dependencies
@@ -27,4 +27,3 @@ npm run e2e
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
